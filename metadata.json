@@ -1,0 +1,6 @@
+{
+  "name": "RouteBuddy",
+  "description": "Custom Map & Route Manager with interactive navigation, saved routes, profile management, and dynamic theme skins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
